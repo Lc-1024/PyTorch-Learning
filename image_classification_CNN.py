@@ -128,5 +128,5 @@ for epoch in range(NUM_EPOCHS):
     test(model, device, test_dataloader)
     
 
-torch.save(model.state_dict(), "image_classification_CNN_MNIST.pt")
+# torch.save(model.state_dict(), "image_classification_CNN_MNIST.pt")
 

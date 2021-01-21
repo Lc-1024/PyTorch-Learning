@@ -4,6 +4,8 @@ GitHub/
 prp/
 notebooks/
 *.pt
+*.xls
+Homework_CNN_MNIST.py
 
 
 # Byte-compiled / optimized / DLL files
